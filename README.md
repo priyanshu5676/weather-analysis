@@ -1,4 +1,4 @@
-# weather-analysis
+# Weather-Analysis
 Analyzing weather data using NumPy and Pandas in Jupyter notebook.
 
 ## Files
